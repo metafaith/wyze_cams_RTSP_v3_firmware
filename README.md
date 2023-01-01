@@ -5,3 +5,7 @@ Submitted without license. The PRIME brach will be the pristine copy retrieved o
 
 
 It's possible that the bug which affected Wyze in March of 2021 was still present in this firmware, and may be why it was taken down. As such, this is submitted without warranty of any kind, and is instead still floating for the purposes of education only. It's not recommended to run this on cameras which may make your network or your person vulnerable.
+
+
+- https://github.com/trickest/cve/blob/6f08baa659925b6ffa531f0f225d2ad1afab8a0f/2019/CVE-2019-9564.md
+- https://github.com/msam13/wyze-cam-firmware-analysis
