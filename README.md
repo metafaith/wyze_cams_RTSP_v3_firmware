@@ -4,4 +4,4 @@ Backup of Wyze cam v3 RTSP firmware, for posterity and testing.
 Submitted without license. The PRIME brach will be the pristine copy retrieved on 2023 01 01 from [the Web Archive (dated 2021 11 10)](https://web.archive.org/web/20211125073848/https://download.wyzecam.com/firmware/rtsp/demo_v3_RTSP_4.61.0.1.zip)  
 
 
-It's possible that the bug which affected Wyze in March of 2021 was still present in this firmware, and is why it was taken down. As such, this is submitted without warranty of any kind, and is instead still floating for the purposes of education only. It's not recommended to run this on cameras which may make your network or your person vulnerable.
+It's possible that the bug which affected Wyze in March of 2021 was still present in this firmware, and may be why it was taken down. As such, this is submitted without warranty of any kind, and is instead still floating for the purposes of education only. It's not recommended to run this on cameras which may make your network or your person vulnerable.
